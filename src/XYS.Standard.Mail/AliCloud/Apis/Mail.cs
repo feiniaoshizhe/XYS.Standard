@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace XYS.Standard.Mail.AliCloud.Models.Responses
+namespace XYS.Standard.Mail.AliCloud.Apis
 {
-    public class ErrorResponse
+    public partial class Mail
     {
     }
 }

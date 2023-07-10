@@ -13,7 +13,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XYS.Standard.Mail", "src\XY
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XYS.Standard.SMS", "src\XYS.Standard.SMS\XYS.Standard.SMS.csproj", "{C2901791-9451-4816-A1B3-E744B1A5B5C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XYS.Standard.OpenAI", "src\XYS.Standard.OpenAI\XYS.Standard.OpenAI.csproj", "{50BC6118-CF69-4695-8FEF-0932CE93372A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XYS.Standard.OpenAI", "src\XYS.Standard.OpenAI\XYS.Standard.OpenAI.csproj", "{50BC6118-CF69-4695-8FEF-0932CE93372A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6E8A78D2-176A-4251-B564-61845271D61E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
